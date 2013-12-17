@@ -60,3 +60,9 @@ Hey guys, that's all.  Just simple use it.
 Ok, it's not completed now.  But I think it's a good starting point.
 
 
+License
+=======
+The MIT License (MIT)
+
+Copyright (c) 2013 Dieter Reuter
+
