@@ -6,7 +6,7 @@ This is an amazing small tool, which automates your usage of GIT.  On every file
 
 
 Prerequisites
-=============
+-------------
 
 Clone the `watchman` project from Facebook
 ```bash
