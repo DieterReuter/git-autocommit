@@ -30,8 +30,8 @@ Should return something like
 ```
 
 
-How to start your first `git-autocommit` project
-------------------------------------------------
+Now start your first `git-autocommit` project
+---------------------------------------------
 
 Just define your start script, let's say we name it `start-watchman.sh`
 ```bash
