@@ -67,6 +67,15 @@ And once again, this GitHub project I've just created and edited while an active
 On every single file save from my editor, I'm instantly getting a new commit pushed automatically to the remote GitHub repository.
 
 
+Credits
+-------
+
+Thanks to this great article I found yesterday about the functions of `watchman` and how it could help to easily
+automated even single tasks of a developers life.
+[Watchman: Faster builds with large source trees](https://www.facebook.com/notes/facebook-engineering/watchman-faster-builds-with-large-source-trees/10151457195103920), by Wez Ferlong
+
+
+
 License
 =======
 The MIT License (MIT)
