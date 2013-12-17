@@ -52,6 +52,11 @@ git commit -am "Changed file $*, Auto-Commit V0.1"
 git push
 ```
 
+Now, let's start the show
+```bash
+./start-watchman.sh
+```
+
 
 Just use it
 -----------
