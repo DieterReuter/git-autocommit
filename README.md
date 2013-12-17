@@ -29,3 +29,14 @@ Should return something like
 /usr/local/bin/watchman
 ```
 
+
+How to start your `git-autocommit`
+==================================
+
+Just define your start script, let's say we name it `start-watchman.sh`
+```bash
+#!/bin/bash
+
+watchman -- trigger ~/projects/git-autocommit auto-commit '*' -- ./auto-commit.sh
+```
+
