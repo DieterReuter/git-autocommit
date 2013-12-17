@@ -24,4 +24,8 @@ Test if `watchman` is correctly install in your PATH
 ```bash
 which watchman
 ```
+Should return something like
+```bash
+/usr/local/bin/watchman
+```
 
