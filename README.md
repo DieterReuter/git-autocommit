@@ -8,7 +8,7 @@ This is an amazing small tool, which automates your usage of GIT.  On every file
 Prerequisites
 -------------
 
-Clone the `watchman` project from Facebook
+Clone the `watchman` project from Facebook [Link](https://github.com/facebook/watchman)
 ```bash
 git clone https://github.com/facebook/watchman
 ```
