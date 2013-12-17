@@ -72,6 +72,7 @@ Credits
 
 Thanks to this great article I found yesterday about the functions of `watchman` and how it could help to easily
 automate even single tasks of a developers life.
+
 [Watchman: Faster builds with large source trees](https://www.facebook.com/notes/facebook-engineering/watchman-faster-builds-with-large-source-trees/10151457195103920), by Wez Ferlong.
 
 
