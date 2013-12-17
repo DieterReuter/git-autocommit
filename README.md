@@ -33,7 +33,7 @@ Should return something like
 Now start your first `git-autocommit` project
 ---------------------------------------------
 
-Just define your start script, let's say we name it `start-watchman.sh`
+Just define your start script, let's say we name it `start-watchman.sh`:
 ```bash
 #!/bin/bash
 watchman watch ~/projects/git-autocommit
