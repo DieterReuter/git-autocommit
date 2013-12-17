@@ -16,6 +16,8 @@ git clone https://github.com/facebook/watchman
 Build and install `watchman`
 ```bash
 cd watchman
+./autogen.sh
+./configure
 make
 make install
 ```
