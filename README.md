@@ -20,7 +20,7 @@ make
 make install
 ```
 
-Test if `watchman` is correctly install in your PATH
+Test if `watchman` is correctly installed in your PATH
 ```bash
 which watchman
 ```
