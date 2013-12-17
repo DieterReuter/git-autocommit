@@ -63,6 +63,8 @@ Just use it
 
 Hey guys, that's all.  Just simple use it.
 Ok, it's not completed now.  But I think it's a good starting point.
+And once again, this GitHub project I've just created and edited while an active `watchman` was running my `auto-commit.sh` script.
+On every write from my editor, I got a new commit pushed automatically to the remote GitHub repository.
 
 
 License
