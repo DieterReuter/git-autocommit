@@ -13,7 +13,7 @@ Clone the `watchman` project from Facebook [Link](https://github.com/facebook/wa
 git clone https://github.com/facebook/watchman
 ```
 
-Install `watchman`
+Build and install `watchman`
 ```bash
 cd watchman
 make
