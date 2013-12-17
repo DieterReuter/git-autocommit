@@ -36,6 +36,21 @@ How to start your `git-autocommit`
 Just define your start script, let's say we name it `start-watchman.sh`
 ```bash
 #!/bin/bash
+watchman watch ~/projects/git-autocommit
 watchman -- trigger ~/projects/git-autocommit auto-commit '*' -- ./auto-commit.sh
 ```
+
+As you can see, we just use our own GitHub project `git-autocommit` to demonstrate how it works.  
+With `watchman` we just start a `trigger` command, which will be fired every time a single file 
+is changed within our directory structure.  That's all.
+
+And here is the damned simple `auto-commit.sh` script:
+```bash
+#!/bin/bash
+git add --all
+git commit -am "Changed file $*, Auto-Commit V0.1"
+git push
+```
+
+
 
